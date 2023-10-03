@@ -39,4 +39,4 @@ custom_fields = CustomFieldHelper() \
     thehiveresponse = api.create_case(case)
 ```
 
-Подробнее о АПИ можно посмотреть здесь -  https://thehive-project.github.io/TheHive4py/reference/api/
+Подробнее об АПИ можно посмотреть здесь - https://thehive-project.github.io/TheHive4py/reference/api/
